@@ -2,40 +2,38 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Personal Project",
+      "title": "Sudoku Solver",
+      "description": "This Python code is my Sudoku solver. The solver can solve Sudoku games ranging from easy to what is claimed to be the hardest Sudoku puzzle invented. The solver uses standard Sudoku logic to solve all but the hardest games. For the hardest games and having exhausted standard logic, the solver maintains a stack of exploratory moves to attempt to solve the game.",      
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/suduko.jpg",
         "alt": "Quick Setup",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/danielmurphy518/sudoku-solver"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.youtube.com/watch?v=p4caCi1jAK0"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Personal Project",
+      "title": "Zillow Walker",
+      "description": "A React Native mobile app that allows the user to instantly view the Zillow property value for any house they pass by on a walk or drive. The app runs on iPhone and Android and accesses the user's current location and orientation to provide property addresses and valuation details for properties as you walk by them. The app also allows the user to view properties within an adjustable radius of their location. The app utilizes Google mapping APIs and Zillow's property valuations APIs.",
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/zillow.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/danielmurphy518/zillow-walker"
         }
       ]
     }

@@ -11,7 +11,7 @@
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/danielmurphy518",
-      "medium": "https://konstantinmuenster.medium.com",
+      "medium": "https://danielmurphycs.medium.com",
       "linkedin": "https://www.linkedin.com/in/danielmurphy97/",
       "mail": "mailto:danielmurphycs@protonmail.com"
     }
@@ -22,7 +22,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Projects", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
@@ -31,8 +31,6 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
       ]
     },
     "featureToggles": {

@@ -10,28 +10,28 @@
     {
       "label": "React",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
       "label": "MySQL",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/mysql.png",
         "alt": ""
       }
     },
     {
       "label": "Vue",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/vue.png",
         "alt": ""
       }
     },
     {
       "label": "Jetpack Compose",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/compose.png",
         "alt": ""
       }
     },
@@ -45,14 +45,14 @@
     {
       "label": "React Native",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
       "label": "AWS",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/aws.png",
         "alt": ""
       }
     }

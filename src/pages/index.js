@@ -8,12 +8,15 @@ import {
   Page,
   ProjectsSection,
   Seo,
+  Section
 } from "gatsby-theme-portfolio-minimal";
+
+import Experience from './experience.js'
 
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title="Daniel Murphy" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
